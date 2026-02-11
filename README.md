@@ -6,7 +6,7 @@ GBDA302 Week 4 Example 1: Grid + Static Maze
 
 ## Authors
 
-Karen Cochrane and David Han
+Lynette Shen
 
 ---
 
@@ -34,6 +34,6 @@ N/A
 
 ## GenAI
 
-The code was written by Dr. Karen Cochrane and David Han but they used GenAI to write the comments.
+I was trying to turn the Week 4 grid sketch into a simple data-driven level system by storing levels in JSON/arrays and using nested loops to render tiles, then adding a player character, collectible “word” items, and an automatic switch to Level 2 after finishing Level 1
 
 ---
